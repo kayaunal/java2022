@@ -1,0 +1,8 @@
+GitRepositoriesView.GitDirectories=C\:\\java2022\\oop1\\.git;
+GitRepositoriesView.GitDirectories.relative=oop1\\.git;
+RepositorySearchDialogDeepSearch=false
+core_defaultRepositoryDir=https\://github.com/kayaunal/java2022
+core_git_servers=
+core_preferredMergeStrategy=jgit-default-mergeStrategy
+core_ssh_default_agent=\\\\.\\pageant
+eclipse.preferences.version=1
